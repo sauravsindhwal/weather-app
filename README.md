@@ -29,7 +29,7 @@ I am excited to introduce the weather app I created using React.js! This app pro
 
 <b>Rain:</b> Displayed during monsoon conditions.
 
-#### Technical Details
+### Technical Details
 <b>React.js:</b> The entire app is built using React.js, leveraging its component-based architecture for efficient state management and UI updates.
 
 <b>API Integration:</b> The app uses a weather API to fetch real-time weather data based on the city name entered by the user.
